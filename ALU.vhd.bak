@@ -37,8 +37,8 @@ architecture simple of ALU is
 		         carry <= std_logic(F(16));-- check for carry
 		       when 1 =>
 		         F := a_s - b_s;
-		         c_s := F(15 downto 0);
-		         carry <= std_logic(F(16));-- check for carry
+		         c_s <= F(15 downto 0);
+		         carry := std_logic(F(16));-- check for carry
 		       when 2 =>
 		         F := -a_s;
 		         c_s := F(15 downto 0);
