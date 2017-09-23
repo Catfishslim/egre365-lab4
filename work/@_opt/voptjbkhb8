@@ -4,15 +4,15 @@ K3
 cModel Technology
 Z0 dH:\EGRE365\VHDL\Lab4\egre365-lab4
 T_opt
-Z1 VF@>`Y<n]4MhD:=7bXLn?<2
+Z1 VTiI9QRO5Sf?YZ0gQO:VVn1
 Z2 04 3 6 work ALU simple 1
-Z3 =1-f48e38a3ff01-59c68e36-1c7-2428
+Z3 =1-f48e38a3ff01-59c6bcd2-34-2d70
 Z4 o-quiet -auto_acc_if_foreign -work work
 Z5 n@_opt
 Z6 OL;O;10.0b;49
 Z7 dH:\EGRE365\VHDL\Lab4\egre365-lab4
 Ealu
-Z8 w1506184630
+Z8 w1506196666
 Z9 DPx4 ieee 11 numeric_std 0 22 k7B<7GmYYYmX;0X]XHFD10
 Z10 DPx3 std 6 textio 0 22 G^o2zK;Vh4eVdKTVo98653
 Z11 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
@@ -24,7 +24,7 @@ L4
 Z14 V5ckhF[IaS`aSj?Q6[B3ER3
 Z15 OL;C;10.0b;49
 32
-Z16 !s108 1506184743.566000
+Z16 !s108 1506196680.476000
 Z17 !s90 -reportprogress|300|-work|work|H:/EGRE365/VHDL/Lab4/egre365-lab4/ALU.vhd|
 Z18 !s107 H:/EGRE365/VHDL/Lab4/egre365-lab4/ALU.vhd|
 Z19 o-work work
@@ -35,9 +35,9 @@ R9
 R10
 R11
 Z22 DEx4 work 3 alu 0 22 5ckhF[IaS`aSj?Q6[B3ER3
-l14
+l34
 L13
-Z23 V7m9AGAH<bMUQoEZ0jSFI:1
+Z23 VNng<OonoV3SSFgJj:S9`D3
 R15
 32
 R16
@@ -45,4 +45,4 @@ R17
 R18
 R19
 R20
-Z24 !s100 Z8G^9J5:_TdPQQBXCUU_a3
+Z24 !s100 E16@mkz66ZFZ0SSYIM``k3
