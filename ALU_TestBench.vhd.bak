@@ -120,4 +120,3 @@ architecture behavior of ALU_TestBench is
 	           std_logic'image(ov_p_out) & ", ov_p_values(i) = " &
 	           std_logic'image(ov_p_values(i))
 	         severity error;
-	         
